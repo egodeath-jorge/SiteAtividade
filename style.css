@@ -1,0 +1,94 @@
+body{
+background-image: url("https://www.creativefabrica.com/wp-content/uploads/2023/08/27/Beautiful-Halloween-Background-Graphics-77831897-1.png");
+/*background-color: rgb(30, 13, 66);*/
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+header{
+    background-color: rgba(0, 0, 0, 0.452);
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: orange;
+
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+    background-color: rgba(0, 0, 0, 0.363);
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+}
+
+strong{
+    color: orange;
+}
+strong:hover{
+color:rgba(119, 8, 8, 0.856);
+}
+.center{ 
+  margin-left: 70px;
+  margin-right: 100px;
+  width: 35%;
+  height: 35%;
+  border-radius: 5px;
+  display: inline-block;
+}
+.left{
+  margin-right: 50px;
+  margin-left: 100px;
+  width: 39%;
+  height: 35%;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+    color: orange;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.466);
+    
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.644);
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 600px;
+    height: 50px;
+    margin-top: 15px;
+   
+}
+.second_page{
+    display: flex;
+    justify-content: space-between;
+}
+.bottompage{
+    text-align: center;
+    font-size: 25px;
+    color: orange;
+    margin-top: 10px;
+    font-family: 'Montserrat' sans-serif;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px; 
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
+
+
+}
+.bottompage:hover{
+    color: rgba(119, 8, 8, 0.856);
+}
+

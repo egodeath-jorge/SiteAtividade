@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://assets.editorial.aetnd.com/uploads/2009/11/halloween-gettyimages-1424736925.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: orange;
+    background-color: rgba(0, 0, 0, 0.37);
+    border-radius: 5px;
+}
+
+.center{
+    width: 500px;
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+p{
+    color: orange;
+    background-color: rgba(0, 0, 0, 0.411);
+    font-size: large;
+    width: 700px;
+    display: flex;
+    border-radius: 6px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.644);
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 200px;
+    height: 70px;
+    margin-top: 15px;
+   
+}
+.voltar_page{
+    display: flex;
+    justify-content: space-between;
+}
+#bottompage{
+    text-align: center;
+    font-size: 23px;
+    color: orange;
+    margin-top: 20px;
+    font-family: 'Montserrat' sans-serif;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 75px;
+    margin-right: 100px; 
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
+}
+#bottompage:hover{
+    color: rgba(119, 8, 8, 0.856);
+}
