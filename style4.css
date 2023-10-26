@@ -22,8 +22,8 @@ strong:hover{
     display: flex;
     width: 500px;
     border-radius: 6px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 520px;
+    margin-right: 500px;
 }
 
 p{
@@ -34,8 +34,7 @@ p{
     text-align: center;
     width: 300px;
     border-radius: 6px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 620px;
     margin-top: 15px;
     
 }
