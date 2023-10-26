@@ -13,9 +13,9 @@ h1{
 .center{
     width: 500px;
     display: flex;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 500px;
     border-radius: 10px;
+
 }
 p{
     color: orange;
@@ -25,8 +25,7 @@ p{
     display: flex;
     border-radius: 6px;
     text-align: center;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 370px;
 
 }
 footer{
